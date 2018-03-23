@@ -1,0 +1,4 @@
+Sitemap: https://PengyinShanUBC.github.io/ES-OC-Upgrade/sitemapindex.xml
+
+User-Agent: *
+Host: PengyinShanUBC.github.io
