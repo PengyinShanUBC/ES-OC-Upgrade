@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>ES/OC Upgrade</title><link>https://PengyinShanUBC.github.io/ES-OC-Upgrade/</link><description>This is the documentation site for ES/OC Upgrade</description><atom:link rel="self" type="application/rss+xml" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/rss.xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:pengyin.shan@ubc.ca"&gt;Pengyin Shan&lt;/a&gt; </copyright><lastBuildDate>Fri, 23 Mar 2018 22:39:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://PengyinShanUBC.github.io/ES-OC-Upgrade/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;div&gt;&lt;div class="figure"&gt;
-&lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
-and build a site using it. Congratulations!&lt;/p&gt;
-&lt;p&gt;Next steps:&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/pages/handbook/"&gt;Read the manual&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/pages/listings-demo/"&gt;See a demo listing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/pages/slides-demo/"&gt;See a demo slideshow&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class="reference external" href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/pages/dr-nikolas-vendetta/"&gt;See a demo of a longer text&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;&lt;/div&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://PengyinShanUBC.github.io/ES-OC-Upgrade/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ES/OC Upgrade</title><link>https://PengyinShanUBC.github.io/ES-OC-Upgrade/</link><description>This is the documentation site for ES/OC Upgrade</description><atom:link href="https://PengyinShanUBC.github.io/ES-OC-Upgrade/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:pengyin.shan@ubc.ca"&gt;Pengyin Shan&lt;/a&gt; </copyright><lastBuildDate>Mon, 26 Mar 2018 19:30:24 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Documentation Plan</title><link>https://PengyinShanUBC.github.io/ES-OC-Upgrade/posts/documentation-plan/</link><dc:creator>Pengyin Shan</dc:creator><description>&lt;div&gt;&lt;p&gt;ES/OC documentation site will have following content:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Documentation List in IFrame&lt;/h3&gt;
+&lt;h4&gt;Confluence&lt;/h4&gt;
+&lt;iframe src="https://confluence.it.ubc.ca/pages/viewpage.action?pageId=85655904"&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Jira&lt;/h4&gt;
+&lt;iframe src="https://jira.it.ubc.ca/secure/RapidBoard.jspa?rapidView=461&amp;amp;view=detail&amp;amp;selectedIssue=DL-1309"&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;Gitlab&lt;/h4&gt;
+&lt;iframe src="https://git.library.ubc.ca/open-collections"&gt;&lt;/iframe&gt;
+
+&lt;h4&gt;API Documentation&lt;/h4&gt;
+&lt;iframe src="https://open.library.ubc.ca/docs"&gt;&lt;/iframe&gt;
+
+&lt;hr&gt;
+&lt;h3&gt;Diagram List&lt;/h3&gt;
+&lt;h4&gt;Archtecture Side&lt;/h4&gt;
+&lt;h5&gt;Class Diagram for API Change&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;PENDING&lt;/em&gt;&lt;/p&gt;
+&lt;h5&gt;Workflow Diagram&lt;/h5&gt;
+&lt;h6&gt;Elastic Search&lt;/h6&gt;
+&lt;p&gt;&lt;em&gt;PENDING&lt;/em&gt;&lt;/p&gt;
+&lt;h6&gt;Open Collection&lt;/h6&gt;
+&lt;p&gt;Open Collection Harveting Indexing Docs&lt;/p&gt;
+&lt;iframe src="https://github.com/ubc-library/open-collections-harvesting-indexing-docs/blob/master/oc_workflows/OC_repos_workflow.pdf"&gt;&lt;/iframe&gt;
+
+&lt;h6&gt;IIIF&lt;/h6&gt;
+&lt;iframe src="https://github.com/ubc-library/open-collections-harvesting-indexing-docs/blob/master/oc_workflows/OC_IIIF_workflow.pdf"&gt;&lt;/iframe&gt;
+
+&lt;h5&gt;Deployment Diagram&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;PENDING&lt;/em&gt;&lt;/p&gt;
+&lt;h4&gt;Client Side&lt;/h4&gt;
+&lt;h5&gt;Sequence Diagram&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;PENDING&lt;/em&gt;&lt;/p&gt;
+&lt;h5&gt;Use Case Diagram&lt;/h5&gt;
+&lt;p&gt;&lt;em&gt;PENDING&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;Project Management&lt;/h3&gt;&lt;/div&gt;</description><guid>https://PengyinShanUBC.github.io/ES-OC-Upgrade/posts/documentation-plan/</guid><pubDate>Sat, 15 Sep 2012 07:00:00 GMT</pubDate></item></channel></rss>
